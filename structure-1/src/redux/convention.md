@@ -1,1 +1,2 @@
 - react-redux와 관련 된것은 이곳에서 관리합니다.
+- reducer action name은 명확하게 합니다.
